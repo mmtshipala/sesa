@@ -259,7 +259,7 @@ EMAIL_HOST = (
 EMAIL_PORT = 465
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = "kktshipala@gmail.com"
-EMAIL_HOST_PASSWORD = "lojsxogbtwextjst"
+EMAIL_HOST_PASSWORD = "lojsxogbtwext"
 
 # crispy config
 CRISPY_TEMPLATE_PACK = "bootstrap4"
